@@ -23,6 +23,8 @@ initTrampoline
 借助YAHFA 中的二进制代码，稍作加工居然很轻松的支持了这4中芯片，这个我也没想到
 
 
+test App https://github.com/jophxu/HookMeDemo
+
 自然稳定性还没发保证，应该还存在许多严重问题。慎用！！！
 
 还有很多事情要做, 但是由于最近比较忙暂时不往下深入了。
@@ -33,7 +35,7 @@ initTrampoline
 
 
 
-#感谢
+感谢
 YAHFA    第一个我能看懂的框架，感觉对我帮助也最大
 SandHook 对我帮助很大
 Pine     对我帮助很大，test app 写的非常棒，因此照搬了过来。谢谢
